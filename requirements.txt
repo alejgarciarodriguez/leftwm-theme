@@ -1,0 +1,5 @@
+polybar
+dbus
+nmcli
+python3
+dbus-python
